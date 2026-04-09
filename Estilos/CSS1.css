@@ -1,0 +1,37 @@
+body 
+{
+    background-color: #fffab7; 
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 
+{
+    color: #4074a5; 
+    font-size: 50px;
+    border-bottom: 3px solid #f19a49;
+    padding-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p 
+{
+    color: #d60c0c; 
+    font-size: 18px;
+    line-height: 1.5; /* Mejora mucho la lectura */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img 
+{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+}
+
+header h1
+{
+    padding-left: 790px; 
+}
